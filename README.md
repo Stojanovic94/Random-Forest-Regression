@@ -2,7 +2,7 @@
 
 This repository contains a practical example of using a Random Forest Regressor to predict house prices based on the Boston Housing dataset.
 
-![](image-1.png)
+![](image.png)
 
 ## Features
 
